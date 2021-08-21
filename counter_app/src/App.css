@@ -9,7 +9,5 @@
 
 button{
   width: 75px;
-  height: 50px;
-  border-radius: 20px;
-  background-color: rgb(224, 89, 26);
+  height: 50px; 
 }
